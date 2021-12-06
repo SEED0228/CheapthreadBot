@@ -15,7 +15,3 @@ pipenv install
 ```
 pipenv run start
 ```
-
-## 使い方(HackMD)
-
-[リンク](https://hackmd.io/e2JkQ6oGQLay8PpBXHDaaw)
