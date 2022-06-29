@@ -12,7 +12,7 @@ discord = "*"
 python-dotenv = "*"
 
 [dev-packages]
-black = "==20.8b1"
+black = "==22.6.0"
 watchdog = "*"
 pyyaml = "*"
 argh = "*"
